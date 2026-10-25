@@ -1,0 +1,31 @@
+.state {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-3);
+  max-width: 52ch;
+  padding: var(--space-6) 0;
+}
+
+.state p {
+  color: var(--color-text-muted);
+}
+
+.errorIcon {
+  color: var(--color-danger);
+}
+
+.skeletonRow {
+  height: 7rem;
+  margin-bottom: var(--space-3);
+  border-radius: var(--radius);
+  background: linear-gradient(90deg, var(--color-surface) 25%, var(--color-surface-raised) 50%, var(--color-surface) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.4s linear infinite;
+}
+
+@keyframes shimmer {
+  to {
+    background-position: -200% 0;
+  }
+}

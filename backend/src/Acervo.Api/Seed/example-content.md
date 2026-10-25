@@ -1,0 +1,12 @@
+- **C How to Program** (Paul Deitel & Harvey Deitel): Fundamentos de lógica, vetores, ponteiros e gerenciamento manual de memória próximo ao hardware.
+- **Introdução a Sistemas de Bancos de Dados** (C. J. Date): Teoria pura do modelo relacional, álgebra relacional e normalização além dos SGBDs comerciais.
+- **Introdução à Programação com Python** (Nilo Ney C. Menezes): Pensamento algorítmico, lógica e estrutura de dados progressiva. Livro que deu o impulso inicial à criação da Bóson Treinamentos.
+- **Elementos de Eletrônica Digital** (Francisco G. Capuano & Ivan V. Idoeta): Álgebra booleana, circuitos combinacionais e a ponte da lógica matemática para o hardware físico.
+- **Troubleshooting & Repairing Computer Printers** (Stephen J. Bigelow): Diagnóstico eletromecânico, isolamento de falhas e formulação empírica de hipóteses técnicas em impressoras matriciais, laser, jato de tinta, jato de cera e a LED.
+- **TCP/IP Illustrated, Vol. 1: The Protocols** (W. Richard Stevens): Análise real de pacotes, handshakes, cabeçalhos e dinâmicas de rede pacote a pacote.
+- **O Mítico Homem-Mês** (Frederick P. Brooks Jr.): A Lei de Brooks, dinâmica humana em projetos de software e o ensaio clássico No Silver Bullet.
+- **Código Limpo / Clean Code** (Robert C. Martin): Princípios de legibilidade, responsabilidade de funções, manutenibilidade e elegância na escrita de código.
+- **Engenharia de Software** (Roger S. Pressman & Bruce R. Maxim): Um clássico. O ciclo de vida completo do software, modelagem, métricas de qualidade, testes e frameworks de processo.
+- **Organização Estruturada de Computadores** (Andrew S. Tanenbaum): A máquina dividida em níveis de abstração, de portas lógicas e microarquitetura até sistemas operacionais e assembly.
+- **Hardware: Curso Completo** (Gabriel Torres): Um clássico brasileiro. A anatomia do computador pessoal, funcionamento de componentes como barramentos, interfaces físicas e placas-mãe.
+- **Practical Electronics for Inventors** (Paul Scherz & Simon Monk): Eletrônica prática aplicada, semicondutores, instrumentação de bancada e projetos de circuitos reais.

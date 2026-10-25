@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Acervo.Api/Acervo.Api.csproj" />
+    <Project Path="src/Acervo.Application/Acervo.Application.csproj" />
+    <Project Path="src/Acervo.Domain/Acervo.Domain.csproj" />
+    <Project Path="src/Acervo.Infrastructure/Acervo.Infrastructure.csproj" />
+    <Project Path="src/Acervo.InterfaceAdapters/Acervo.InterfaceAdapters.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Acervo.Application.Tests/Acervo.Application.Tests.csproj" />
+    <Project Path="tests/Acervo.Domain.Tests/Acervo.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
