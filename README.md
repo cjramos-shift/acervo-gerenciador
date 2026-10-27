@@ -39,10 +39,13 @@ cd backend
 dotnet tool restore
 
 # Gera a migration inicial (apenas uma vez)
+## Linux
 dotnet ef migrations add InitialCreate \
   --project src/Acervo.Infrastructure \
   --startup-project src/Acervo.Api \
   --output-dir Persistence/Migrations
+## Windows
+dotnet ef migrations add InitialCreate --project src/Acervo.Infrastructure --startup-project src/Acervo.Api --output-dir Persistence/Migrations
 
 # Sobe a API em http://localhost:5080
 dotnet run --project src/Acervo.Api
